@@ -1,0 +1,5 @@
+RMA_list_path=C:\Users\Qichang Ql\Desktop\テスト　FOR　PYTHON
+RMA_list_name=RMA.xlsx
+ITS_report_path=C:\Users\Qichang Ql\Desktop\ITS_target
+SBF_report_path=C:\Users\Qichang Ql\Desktop\SBF_target
+UNVISUALABLE_OF_EXCLE=1
